@@ -69,7 +69,7 @@ portfolio/ |index.html |style.css |script.js └assets/       profile.jpg   (opt
   <section id="contact">
         <h2>Contact</h2>
         <p>Email: sonus804020@gmail.com</p>
-        <p>Phone: 8590258151</p>
+        <p>Phone: *******151</p>
     </section>
 
    <footer>
