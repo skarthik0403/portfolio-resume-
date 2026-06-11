@@ -1,6 +1,3 @@
-# portfolio-resume-
-portfolio/ |index.html |style.css |script.js └assets/       profile.jpg   (optional)
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
